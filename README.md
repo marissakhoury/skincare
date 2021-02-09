@@ -4,7 +4,15 @@
 * [Setup](#setup)
 
 ## General info
-My first data science project investigating the ingredients in skincare products.
+I regularly search for skincare products with quality ingredients for
+my sensitive skin. It can be difficult to understand ingredient lists
+and know which products may cause skin trouble. I observed that
+skincare retailer's websites recommend and advertise products based on
+brand name and product type. However, I was curious about the
+similarity of certain skincare products, solely based on their
+ingredients. To investigate this, I built my own skincare
+recommendation engine.
+
 
 ## Technologies
 Project is created with:
@@ -31,4 +39,3 @@ $ jupyter notebook
 
 ## Sources
 Project inspired by Jiwon Jeong's medium article on a tutorial with Bokeh.  [@jjone36](https://towardsdatascience.com/for-your-skin-beauty-mapping-cosmetic-items-with-bokeh-af7523ca68e5)
-# skincare
